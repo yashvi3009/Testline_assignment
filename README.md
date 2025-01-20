@@ -35,4 +35,4 @@ Each dataset includes information such as quiz IDs, scores, accuracy, speed, tot
 
 ### Installation
 1. Clone the repository: https://github.com/yashvi3009/Testline_assignment
-2. Install required packaged: pip install -r requirements.txt
+2. Install required packaged: pip install pandas numpy matplotlib scikit-learn requests
